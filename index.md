@@ -5,5 +5,5 @@
 layout: home
 ---
 # 目录 现在可以在这里添加内容了
-### [关于]（https://kazeridesu.github.io//about.md）  
+### [关于](./about.md)  
 ###
